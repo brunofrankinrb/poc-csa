@@ -13,6 +13,14 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
+rect {
+  cursor: pointer;
+}
+
+text {
+  cursor: pointer;
+}
+
 a {
   font-weight: 500;
   color: #646cff;
